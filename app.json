@@ -26,9 +26,7 @@
     "ios": {
       "supportsTablet": true
     }, "android": {
-      "package": "hireme.com.hiremeapp",
-      "publishBundlePath": "android\\app\\src\\main\\assets\\shell-app.bundle",
-      "publishManifestPath": "android\\app\\src\\main\\assets\\shell-app-manifest.json"
-    }
+      "package": "hireme.com.hiremeapp"
+        }
   }
 }
